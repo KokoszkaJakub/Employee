@@ -15,7 +15,7 @@ public class OfficeWorker extends Employee {
 
     @Override
     public String giveData() {
-        return "My name is: " + getFirstName() + " " + getLastName() + " and i`m office employee"
+        return "My name is: " + getFirstName() + " " + getLastName() + " and i`m office employee, my payment are: " + payment()
                 ;
     }
 }
