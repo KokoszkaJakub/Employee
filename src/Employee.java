@@ -6,6 +6,8 @@ public abstract class Employee {
     private int age;
     private int phoneNumber;
     private double hoursWorked;
+    private int factoryCost;
+    private int capital;
 
     public abstract double payment() ;
     public abstract String giveData();

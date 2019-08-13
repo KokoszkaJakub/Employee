@@ -6,6 +6,7 @@ public class WarehouseWorkerTest {
 
     @Test
     public void payment() {
+
     }
 
     @Test
